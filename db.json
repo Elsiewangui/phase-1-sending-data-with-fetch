@@ -1,30 +1,301 @@
 {
-  "dogs": [{
+  "dogs": [
+    {
       "dogName": "Luca",
       "dogBreed": "German Shepherd",
-      "id": 1
+      "id": "1"
     },
     {
       "dogName": "Lola",
       "dogBreed": "Giant Schnauzer",
-      "id": 2
+      "id": "2"
     }
   ],
-  "cats": [{
+  "cats": [
+    {
       "catName": "Stanley",
       "catBreed": "Tabby",
-      "id": 1
+      "id": "1"
     },
     {
       "catName": "Gunnar",
       "catBreed": "American Shorthair",
-      "id": 2
+      "id": "2"
     }
   ],
-  "users": [],
-  "robots": [{
-    "robotName": "C8-09S100K",
-    "robotType": "Human Assistant",
-    "id": 9000
-  }]
+  "users": [
+    {
+      "id": "f242"
+    },
+    {
+      "id": "8ac2"
+    },
+    {
+      "id": "2cc0"
+    },
+    {
+      "id": "be7f"
+    },
+    {
+      "id": "6ab4"
+    },
+    {
+      "id": "f433"
+    },
+    {
+      "id": "40d9"
+    },
+    {
+      "id": "9351"
+    },
+    {
+      "id": "a08b"
+    },
+    {
+      "id": "9cf6"
+    },
+    {
+      "id": "2c0d"
+    },
+    {
+      "id": "d1dd"
+    },
+    {
+      "id": "7a63"
+    },
+    {
+      "id": "0ce4"
+    },
+    {
+      "id": "7050"
+    },
+    {
+      "id": "1d24"
+    },
+    {
+      "id": "7897"
+    },
+    {
+      "id": "41dd"
+    },
+    {
+      "id": "7eee"
+    },
+    {
+      "id": "f3d7"
+    },
+    {
+      "id": "ceab"
+    },
+    {
+      "id": "9959"
+    },
+    {
+      "id": "709d"
+    },
+    {
+      "id": "9b3a"
+    },
+    {
+      "id": "f26f"
+    },
+    {
+      "id": "f37c"
+    },
+    {
+      "id": "b1fa"
+    },
+    {
+      "id": "0b6a"
+    },
+    {
+      "id": "45e1"
+    },
+    {
+      "id": "4522",
+      "name": "Steve",
+      "email": "steve@steve.com"
+    },
+    {
+      "id": "4dfc",
+      "name": "Steve",
+      "email": "steve@steve.com"
+    },
+    {
+      "id": "7895",
+      "name": "Steve",
+      "email": "steve@steve.com"
+    },
+    {
+      "id": "a21d",
+      "name": "Steve",
+      "email": "steve@steve.com"
+    },
+    {
+      "id": "4817",
+      "name": "Steve",
+      "email": "steve@steve.com"
+    },
+    {
+      "id": "58c8",
+      "name": "Steve",
+      "email": "steve@steve.com"
+    },
+    {
+      "id": "1f94",
+      "name": "Steve",
+      "email": "steve@steve.com"
+    },
+    {
+      "id": "0b9a",
+      "name": "Steve",
+      "email": "steve@steve.com"
+    },
+    {
+      "id": "1ba8",
+      "name": "Steve",
+      "email": "steve@steve.com"
+    },
+    {
+      "id": "48ba",
+      "name": "Steve",
+      "email": "steve@steve.com"
+    },
+    {
+      "id": "8813",
+      "name": "Steve",
+      "email": "steve@steve.com"
+    },
+    {
+      "id": "0edf",
+      "name": "Steve",
+      "email": "steve@steve.com"
+    },
+    {
+      "id": "5df8",
+      "name": "Steve",
+      "email": "steve@steve.com"
+    },
+    {
+      "id": "5704"
+    },
+    {
+      "id": "d064"
+    },
+    {
+      "id": "f6b2"
+    },
+    {
+      "id": "52f3"
+    },
+    {
+      "id": "3d1b"
+    },
+    {
+      "id": "ef66"
+    },
+    {
+      "id": "97f2"
+    },
+    {
+      "id": "82f3"
+    },
+    {
+      "id": "706d"
+    },
+    {
+      "id": "c392"
+    },
+    {
+      "id": "e991"
+    },
+    {
+      "id": "09ab"
+    },
+    {
+      "id": "87bf"
+    },
+    {
+      "id": "7736"
+    },
+    {
+      "id": "3fb2"
+    },
+    {
+      "id": "7cc6"
+    },
+    {
+      "id": "2386"
+    },
+    {
+      "id": "d48f"
+    },
+    {
+      "id": "991e"
+    },
+    {
+      "id": "2e38",
+      "name": ""
+    },
+    {
+      "id": "733f",
+      "name": ""
+    },
+    {
+      "id": "1c3a",
+      "name": ""
+    },
+    {
+      "id": "cc77",
+      "name": ""
+    },
+    {
+      "id": "9265",
+      "name": "steve"
+    },
+    {
+      "id": "0fb5",
+      "name": "steve"
+    },
+    {
+      "id": "07ae",
+      "name": "steve",
+      "email": "steve"
+    },
+    {
+      "id": "9b68",
+      "name": "steve",
+      "email": "steve"
+    },
+    {
+      "id": "c575",
+      "name": "steve",
+      "email": "steve.steve"
+    },
+    {
+      "id": "b161",
+      "name": "steve",
+      "email": "steve.steve"
+    },
+    {
+      "id": "63dc",
+      "name": "steve",
+      "email": "steve@steve.com"
+    },
+    {
+      "id": "da3f",
+      "name": "steve",
+      "email": "steve@steve.com"
+    },
+    {
+      "id": "f159"
+    }
+  ],
+  "robots": [
+    {
+      "robotName": "C8-09S100K",
+      "robotType": "Human Assistant",
+      "id": "9000"
+    }
+  ]
 }
